@@ -18,7 +18,7 @@ export default memo(function AppFooter(props) {
                   </Fragment>
                 )
               })
-            }
+            } 
           </p>
           <p className="second">
             <span className="sep span">网易公司版权所有©1997-2020</span>
